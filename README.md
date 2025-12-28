@@ -38,18 +38,18 @@ I believe in learning by doing — from raw microphones to deployed Docker conta
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdvasm&show_icons=true&theme=default" alt="mohdvasm github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohd-vasim&show_icons=true&theme=default" alt="mohd-vasim github stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdvasm&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-vasim&theme=default" />
 </p>
 
 ---
 
 ### 📬 Let's Connect
 
-- 🌐 Portfolio: [mohdvasm.github.io/profile](https://mohdvasm.github.io/profile)
-- 💼 LinkedIn: [linkedin.com/in/mohdvasm](https://www.linkedin.com/in/mohdvasm)
-- 📫 Email: mohdvasm@gmail.com
+- 🌐 Portfolio: [mohdvasm.github.io/profile](https://mohd-vasim.github.io/mohd-vasim)
+- 💼 LinkedIn: [linkedin.com/in/mohdvasm](https://www.linkedin.com/in/mohdvasimsk)
+- 📫 Email: mohdvasimsk@gmail.com
 
 ---
 
