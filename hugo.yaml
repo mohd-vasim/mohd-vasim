@@ -3,6 +3,11 @@ title: Mohammed Vasim
 
 # import hextra as module
 module:
+  hugoVersion:
+    extended: true
+    min: "0.146.0"
+
+  # workspace: hugo.work
   imports:
     - path: github.com/imfing/hextra
 
@@ -44,10 +49,24 @@ menu:
     #   params:
     #     icon: x-twitter
 
+
+
 params:
   navbar:
     displayTitle: true
     displayLogo: false
+    logo:
+      path: static/logo-circle-cropped.png
+      dark: static/logo-circle-cropped.png
+      # width: 40
+      # height: 20
+      # link: /
+    width: wide
+
+  theme:
+    # light | dark | system
+    default: light
+    displayToggle: true
 
   footer:
     displayCopyright: true

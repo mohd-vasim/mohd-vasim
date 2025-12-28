@@ -79,5 +79,12 @@ hugo mod get -u
 hugo mod tidy
 ```
 
+### Upgrade Guide 
+No breaking changes are expected for most sites. Update using Hugo Modules:
+
+```shell
+hugo mod get -u github.com/imfing/hextra
+```
+
 See [Update modules](https://gohugo.io/hugo-modules/use-modules/#update-modules) for more details.
 
