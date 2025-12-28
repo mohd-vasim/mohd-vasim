@@ -23,14 +23,6 @@ markup:
 
 menu:
   main:
-    # - identifier: ai
-    #   name: Artificial Intelligence
-    #   pageRef: /ai
-    #   weight: 1
-    # - identifier: blog
-    #   name: Blog
-    #   pageRef: /blog
-    #   weight: 2
     - name: About me
       pageRef: /aboutme
       weight: 1
@@ -40,7 +32,7 @@ menu:
         type: search
     - name: GitHub
       weight: 3
-      url: "https://github.com/mohdvasm"
+      url: "https://github.com/mohd-vasim"
       params:
         icon: github
     # - name: Twitter
