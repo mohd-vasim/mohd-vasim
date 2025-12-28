@@ -10,10 +10,10 @@ This blog is where I share my journey, insights, and experiments in Artificial I
 
 Whether you're here to learn, explore, or get inspired — I’m glad you’re here. Let’s grow together in the world of tech and ideas.
 
-## Explore
+<!-- ## Explore
 
 {{< cards >}}
   {{< card link="ai" title="Artificial Intelligence" icon="book-open" >}}
   {{< card link="blog" title="Blogs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
+{{< /cards >}} -->
