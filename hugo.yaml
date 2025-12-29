@@ -30,6 +30,11 @@ menu:
       weight: 2
       params:
         type: search
+    - name: Abstracting AI
+      weight: 3
+      url: "https://abstractingai.substack.com/"
+      params:
+        icon: github
     - name: GitHub
       weight: 3
       url: "https://github.com/mohd-vasim"
