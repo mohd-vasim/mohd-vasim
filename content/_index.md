@@ -10,7 +10,7 @@ Hi, I’m Mohammed Vasim — an AI and Machine Learning Engineer who enjoys lear
 
 **Join my blog Abstracting AI**
 <center style="margin-top:30px">
-<iframe src="https://abstractingai.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://abstractingai.substack.com/embed" width="320" height="240" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 </center>
 
 <!-- ## Explore
