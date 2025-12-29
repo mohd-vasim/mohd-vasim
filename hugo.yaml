@@ -26,17 +26,18 @@ menu:
     - name: About me
       pageRef: /aboutme
       weight: 1
-    - name: Search
-      weight: 2
-      params:
-        type: search
     - name: Abstracting AI
-      weight: 3
+      weight: 2
       url: "https://abstractingai.substack.com/"
       params:
-        icon: github
-    - name: GitHub
+        type: link
+        icon: library
+    - name: Search
       weight: 3
+      params:
+        type: search
+    - name: GitHub
+      weight: 4
       url: "https://github.com/mohd-vasim"
       params:
         icon: github

@@ -4,9 +4,6 @@ type: about
 toc: false
 ---
 
-<!-- ![](https://avatars.githubusercontent.com/u/110840103?s=400&u=02d55eb1d228040f60b87e248adfa4e4cf052165&v=4) -->
-<img src="static/profile_pic_circle_cropped.png" width="200">
-
 
 # **Mohammed Vasim**
 
