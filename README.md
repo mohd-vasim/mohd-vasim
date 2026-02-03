@@ -1,55 +1,97 @@
 <h1 align="center">Hi there, I'm Mohammed Vasim 👋</h1>
+
 <p align="center">
-  <strong>Aspiring AI Research Scientist & Future Entrepreneur | AI Engineering | GenAI Development | Driving Innovation through AI & Data.</strong>  
-</p>
-<p align="center">
-  🚀 Turning ideas into intelligent systems | 🧠 Passionate about building with AI
+  <strong>AI Engineer | Agentic AI Systems | Generative AI | Building Production-Grade Intelligent Systems</strong>
 </p>
 
----
-
-### 👨‍💻 About Me
-
-I’m a self-made engineer of Machine Learning & Artificial Intelligence. I specialize in building **real-time AI solutions**, **agentic AI systems**, and **generative AI systems** that solve practical business problems using modern tools like `LangChain`, `LangGraph`, `Hugging Face`, `Large Language Models`.
-
-I believe in learning by doing — from raw microphones to deployed Docker containers — I love building things that speak, listen, and respond.
-
----
-
-### ⚡ What I Do
-
-- 🎙️ **Voice AI** — Build real-time STT + TTS bots using Whisper & Tortoise
-- 🧠 **LLM-Powered Agents** — Build intelligent agents using LangChain & LangGraph
-- 🧾 **AI Content Generation** — Automate blogs, FAQs, reports using RAG pipelines
-- 🛠️ **Backend Engineering** — REST APIs, Dockerized microservices, streaming audio
-- 📸 **Computer Vision** — People counting and analytics with OpenCV, RabbitMQ, SORT
-
----
-
-### 🧰 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,linux,fastapi,flask,git,github,mysql,mongodb&theme=light" /><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,openai&theme=light" />
+  🚀 Designing AI systems that solve real business problems  
+  🧠 From data & models to APIs, infra, and deployment
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 👨‍💻 About Me
+
+I’m an **AI Engineer** focused on **building and deploying intelligent systems** that deliver real business value.  
+My work spans **agentic AI**, **LLM-powered applications**, **voice AI**, and **AI-first backend systems** — from idea to production.
+
+I specialize in turning **ambiguous business requirements** into **scalable AI solutions**, combining:
+- strong backend engineering,
+- modern LLM frameworks,
+- and production-ready MLOps practices.
+
+I don’t just build models — I build **systems that run reliably in the real world**.
+
+---
+
+## ⚡ What I Work On
+
+- 🧠 **Agentic AI Systems**  
+  Design and deploy multi-step, tool-using AI agents using **LangChain**, **LangGraph**, and structured workflows.
+
+- 🤖 **LLM-Powered Applications**  
+  Build RAG pipelines, internal copilots, chat systems, and reasoning-focused AI assistants for real business use cases.
+
+- 🎙️ **Voice AI & Conversational Systems**  
+  End-to-end real-time voice bots (STT → reasoning → TTS) with streaming audio and low-latency pipelines.
+
+- 🛠️ **AI-First Backend Engineering**  
+  Production APIs using **FastAPI / Flask**, Dockerized microservices, async pipelines, and secure integrations.
+
+- 📸 **Applied Computer Vision**  
+  Video analytics systems (people counting, tracking) using **OpenCV**, **SORT**, **RabbitMQ**, and event-driven design.
+
+---
+
+## 🧰 Tech Stack
+
+**Core**
+- Python, Linux, Git, GitHub  
+- FastAPI, Flask, REST APIs  
+- Docker, Docker Compose, ECS/ECR-style deployments  
+
+**AI / ML**
+- PyTorch, TensorFlow  
+- Hugging Face, OpenAI-compatible APIs  
+- LangChain, LangGraph, RAG pipelines  
+- Whisper-based STT, neural TTS systems  
+
+**Data & Infra**
+- MySQL, MongoDB  
+- RabbitMQ, async processing  
+- Logging, monitoring, and production debugging  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohd-vasim&show_icons=true&theme=default" alt="mohd-vasim github stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-vasim&theme=default" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,linux,fastapi,flask,git,github,mysql,mongodb&theme=light" /><br>
+  <img src="https://skillicons.dev/icons?i=postgresql,react,nextjs,javascript&theme=light" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vscode,notion,obsidian,ubuntu,rabbitmq&theme=light" />
 </p>
 
 ---
 
-### 📬 Let's Connect
+## 📌 Selected Work & Focus Areas
 
-- 🌐 Portfolio: [mohdvasm.github.io/profile](https://mohd-vasim.github.io/mohd-vasim)
-- 💼 LinkedIn: [linkedin.com/in/mohdvasm](https://www.linkedin.com/in/mohdvasimsk)
-- 📫 Email: mohdvasimsk@gmail.com
+- **AbstractGPT** — A ChatGPT-style AI system focused on reasoning, tool-use, and co-thinking workflows  
+- **Agentic Microservices** — Modular AI agents exposed via APIs for enterprise workflows  
+- **Voice-Enabled AI Systems** — Real-time conversational bots with streaming inference  
+- **AI Automation Pipelines** — Content generation, internal tools, and business process automation  
+
+(Details available in pinned repositories 👇)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohd-vasim&show_icons=true&theme=default" alt="mohd-vasim github stats" /> <br> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-vasim&theme=default" /> </p>
+---
+
+## 📬 Let’s Connect
+
+- 🌐 Portfolio: https://mohdvasim.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mohdvasimsk  
+- 📫 Email: mohdvasimsk@gmail.com  
 
 ---
 
